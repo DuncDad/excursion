@@ -2,13 +2,17 @@
 
 h1 {
     font: verdana;
-    font-weight normal;
+    font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 } 
 
-h2
+h2 { 
+    font: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
 
 .cta
 
