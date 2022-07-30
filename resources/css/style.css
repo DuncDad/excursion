@@ -14,9 +14,17 @@ h2 {
     font-size: 42px;
 }
 
-.cta
+.cta { 
+    color: aquamarine;
+    font-size: 16px;
+}
 
-.app
+.app {
+    text-align: center;
+}
 
-.footer
+.footer {
+         text-align: right;
+         color: gray;
+}
 
